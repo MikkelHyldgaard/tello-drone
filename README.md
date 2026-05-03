@@ -2,7 +2,7 @@
 
 # ide
 styre dronen med et gyroscope og en stick
-
+![alt text](https://github.com/MikkelHyldgaard/tello-drone/blob/main/genialt.png?raw=true)
 
 
 <summary> links
