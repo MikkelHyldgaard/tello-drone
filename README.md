@@ -4,6 +4,7 @@
 styre dronen med et gyroscope og en stick
 ![alt text](https://github.com/MikkelHyldgaard/tello-drone/blob/main/genialt.png?raw=true)
 
+en gyro bruges til at styre x akse og y akse bevægelse, imen en thumbstick bruges til z aksen og rotation
 
 <summary> links
   <details> https://trello.com/invite/b/69f06511330c9e0d43260f83/ATTI3259866065637cafa5e1a908598172ea0BDEFCBE/drone-projekt
